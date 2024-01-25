@@ -1,9 +1,12 @@
 a{
     background-color:aqua;
 }
-* .abc{
+   .abc{
     background-color: blue;
-} *
+} 
 a[target]{
-    background-color:orange;
+    background-color:green; 
 }
+* {
+   background-color:mediumaquamarine;
+  }

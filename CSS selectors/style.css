@@ -5,9 +5,13 @@
     background-color: blue;
 } 
 span{
-    background-color: red;
+    background-color:orange;
 }
 #abc{
+    background-color: green;
+}
+
+a {
     background-color: aqua;
 }
 
